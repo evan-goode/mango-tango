@@ -19,9 +19,10 @@ Unless you're working on the boilerplate itself, you'll want to remove the exist
 rm -rf .git
 ```
 
-Start the development server.
+Install dependencies and start the development server.
 
 ```
+yarn
 yarn start
 ```
 
